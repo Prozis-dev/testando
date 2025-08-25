@@ -1,0 +1,8 @@
+langchain
+boto3
+awscli
+chromadb
+langchain-chroma # integração com embeddings do bedrock
+langchain-community # integração com embeddings do bedrock
+python-dotenv
+streamlit # teste
