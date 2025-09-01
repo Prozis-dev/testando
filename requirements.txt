@@ -1,4 +1,5 @@
 langchain
+pypdf
 boto3
 awscli
 chromadb
