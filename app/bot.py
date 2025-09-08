@@ -26,4 +26,5 @@ if __name__ == "__main__":
     # t.me/chatbot_juridico_bot
     # Token: 8304485718:AAFeqEuONC6pR8lsNsHZvcGYX5UVMoGk9P4
     # Na pasta raiz do projeto, execute: pip install python-telegram-bot==20.3
+    # Depois, execute: set TELEGRAM_TOKEN=8304485718:AAFeqEuONC6pR8lsNsHZvcGYX5UVMoGk9P4
     # Depois, execute: python app/bot.py

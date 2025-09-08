@@ -24,4 +24,4 @@ LOG_STREAM = 'RespostasBedrock'
 
 # Modelos do Bedrock
 BEDROCK_MODEL_ID = "amazon.titan-embed-text-v2:0"
-LLM_MODEL_ID = "" # Tenho que solicitar o acesso ao Modelo LLM no AWS BedRock para texto
+LLM_MODEL_ID = "amazon.titan-text-express-v1" # Tenho que solicitar o acesso ao Modelo LLM no AWS BedRock para texto
